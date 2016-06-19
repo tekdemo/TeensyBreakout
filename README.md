@@ -8,10 +8,15 @@ A small PCB to break out a Teensy into a form factor suitable for small electron
 - Adds three wire pinouts for all pins
 - All PWM outputs have an LED
 - All PWM outputs connect to 3 wire servo headers that supply input or battery voltage for use with servos or motor controllers
+- Contains small Stormy logo on back since the [Stormbots](http://stormbots.com) were the inspiration for this board's existence
 
+![Board Top](board-top.png) 
+
+![Board Bottom](board-bottom.png) 
+
+![Schematic](schematic.png)
 
 # BOM
-
 Due to the nature of the breakout, many components can be omitted depending on the needed sections. 
 
 ## Components 
